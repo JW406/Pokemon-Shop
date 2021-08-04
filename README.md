@@ -11,6 +11,7 @@ Online Pokemon shop where visitors can sign in using OAuth via Google and GitHub
 * MaterialUI
 * Spring MVC
 * Spring Data
+* Spring Security(JWT)
 * Hibernate
 * Lombok
 * Log4J
